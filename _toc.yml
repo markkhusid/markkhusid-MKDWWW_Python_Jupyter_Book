@@ -1,9 +1,10 @@
-# Table of contents
-# Learn more at https://jupyterbook.org/customize/toc.html
-
 format: jb-book
 root: intro
-chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+parts:
+- caption: Python Playground - Geeky Projects for the Curious Programmer
+  chapters:
+  - file: Python_Playground/Python_Playground__HEAD__
+
+    sections:
+    - file: Python_Playground/conway
+

@@ -1,11 +1,23 @@
-# Welcome to your Jupyter Book
+# Python Programming
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+[Home](https://www.mkdynamics.net)
 
-Check out the content pages bundled with this sample book to see more.
+![python_code](Images/python_programming.jpeg)
+
+## Table of Contents
 
 ```{tableofcontents}
 ```
+
+## Resources and Textbooks Used
+
+In this section we will be programming in Python using examples and techniques found in these books and resources:  <br>
+
+### "Python Playground: Geeky Projects for the Curious Programmer" by Mahesh  Venkitachalam (No Starch Press)
+This book may be purchased from:
+[Python Playground: Geeky Projects for the Curious Programmer](https://nostarch.com/pythonplayground)
+
+### Project Code on Github
+
+Project code is available at the following Github repositories:<br>
+[Worked Examples in "Python Playground: Geeky Projects for the Curious Programmer"](https://github.com/markkhusid/markkhusid-MKDWWW_Python_Jupyter_Book)
