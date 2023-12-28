@@ -110,6 +110,7 @@ def main():
     if args.display:
         gShowPlot = True
         plt.ion()
+        #plt.show()
         
     # create note player
     nplayer = NotePlayer()

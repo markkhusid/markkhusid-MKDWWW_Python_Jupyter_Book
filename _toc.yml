@@ -8,4 +8,5 @@ parts:
     - file: Python_Playground/Section_Chapter_2_Draw_Circle
     - file: Python_Playground/Section_Chapter_2_Draw_Spiro
     - file: Python_Playground/Section_Chapter_3_Conway
+    - file: Python_Playground/Section_Chapter_4_Karplus_Strong
 
